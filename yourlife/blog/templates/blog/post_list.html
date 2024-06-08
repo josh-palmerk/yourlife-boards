@@ -5,13 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>please please work</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-    <h1>it worked i think?</h1>
-    <ul>
+    <header>
+        <img src="https://placehold.co/80x80" alt="Logo" id="logo">
+        <h1>It's YOUR LIFE</h1>
+    </header>
+
+    <a href="post/new">Create a post</a>
+    <ul class="post_list">
         {% for post in posts %}
-        <li>
+        <li class="post">
             <h3>{{post.title}}</h3>
             <p>{{post.content}}</p>
             <small>{{post.created_at}}</small>
