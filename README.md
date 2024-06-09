@@ -47,3 +47,4 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 * [ ] Delete post
 * [ ] Edit post
 * [ ] Homepage content/description
+* [ ] Time zone?

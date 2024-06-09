@@ -86,38 +86,43 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |   5/23   |  9pm     |   IM   |  Starting apps and making HTML             |    1:30     |
 |   5/24   |  6pm     |   IM   |  Getting nowhere with the django framework |    3:30     |
 |   5/25   |  11pm    |   IM   |  Scrapping my whole idea and starting fresh with my new knowledge  |  1:30   |
-|   6/7    |  7pm     |   IM   |  Trying to figure out forms and models     |    3:00     |
+|   6/7    |  7pm     |   IM   |  Trying to figure out forms and models     |    3:30     |
 |   6/8    |  11am    |   IM   |  Literally scrapped again, 3rd time was the charm I guess         |   4:30    |
 
-_Note: Add more rows as needed._
 
 
 ## Part 3 - Module Results
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/josh-palmerk/yourlife-boards
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/_YuNvBd1sms
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
+|Are the links above public and working?                     |   Yes  |
+|Did you complete all the unique requirements for the module?|  Yes   |
+|Did you write at least 100 lines of code?                   |  Yes   |
+|Did you fully complete the readme.md file?                  |  Yes   |
 |Did you put the readme.md file in GitHub in the top folder? |  Yes   |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 
+I did not complete a stretch challenge.
+
 5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+
+I did not change the module topic, but I did restart my project twice due to IDE and framework failures caused by extreme user incompetence.
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|     15:30         |
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+Being less afraid to restart helped me get over some stupid bugs that were causing me hours of pain. I think I need to start using git branches more, so I can revert instead of restart. But restarting also helps you learn the fundamentals more solidly, so I'm split between the two approaches.
